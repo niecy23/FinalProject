@@ -1,5 +1,5 @@
 ﻿using System;
-namespace FinalProject
+namespace FinalProject.Models
 {
 	public class RSVP
 	{

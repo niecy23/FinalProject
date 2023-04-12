@@ -1,9 +1,9 @@
 ﻿using System;
-namespace FinalProject
+namespace FinalProject.Models
 {
-	public class Events
+	public class Event
 	{
-		public Events()
+		public Event()
 		{
 		}
 
